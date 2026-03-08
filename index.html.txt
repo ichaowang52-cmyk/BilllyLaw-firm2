@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wang & Associates Law Firm</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <img src="images/hero.jpg" alt="Law Office" width="100%">
+  <h1>Wang & Associates Law Firm</h1>
+  <p>Professional Legal Services for Businesses and Individuals</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="lawyer.html">Lawyer</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section id="welcome">
+  <h2>Welcome</h2>
+  <p>We provide professional legal advice in corporate, family, and civil law. Our experienced lawyers are dedicated to protecting your interests.</p>
+</section>
+
+<section id="services-preview">
+  <h2>Our Services</h2>
+  <ul>
+    <li>Corporate Law</li>
+    <li>Family Law</li>
+    <li>Contract Review</li>
+    <li>Legal Consultation</li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2026 Wang & Associates Law Firm</p>
+</footer>
+
+</body>
+</html>

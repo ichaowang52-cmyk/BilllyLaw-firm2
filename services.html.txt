@@ -1,0 +1,7 @@
+<h1>Our Services</h1>
+<ul>
+<li>Corporate Law – Incorporation, contracts, compliance</li>
+<li>Family Law – Divorce, custody, estate planning</li>
+<li>Immigration Law – Visas, residency, appeals</li>
+<li>Legal Consultation – Personalized advice</li>
+</ul>

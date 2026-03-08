@@ -1,0 +1,6 @@
+<h1>Contact Us</h1>
+<p>Address: 123 Legal Street, Taipei, Taiwan</p>
+<p>Email: info@lawfirm.com</p>
+<p>Phone: +886 912 345 678</p>
+<h2>Our Location</h2>
+<iframe src="https://maps.google.com/maps?q=Taipei&t=&z=15&ie=UTF8&iwloc=&output=embed" width="100%" height="300"></iframe>

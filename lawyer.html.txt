@@ -1,0 +1,4 @@
+<h1>Our Lawyers</h1>
+<h2>Attorney: Dr. Chao Wang</h2>
+<p>Expert in corporate and civil law with 20 years of experience.</p>
+<img src="images/lawyer1.jpg" width="250">
